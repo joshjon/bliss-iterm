@@ -12,7 +12,7 @@
 
 ## About
 
-Bliss inspires calmness and tranquil, whilst maintaining readability and visual distinction between elements. It is designed with a family of colors specifically having high value (lightness) and low to intermediate saturation. As a result, the palette's tonal properties invoke a softer look that is easier on your eyes.
+Bliss inspires calmness and tranquil, whilst maintaining readability and visual distinction between elements. It is specifically designed with colors of high value (lightness) and low to intermediate saturation. As a result, the palette's tonal properties invoke a softer look that is easier on your eyes.
 
 ### Setting the Mood
 Bliss looks even better with the following terminal setup:
